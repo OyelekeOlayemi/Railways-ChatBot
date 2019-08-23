@@ -30,6 +30,6 @@ pip install chatterbot
 
 ## About Bot
 - This bot can be used by peoples who use railways as mode of communication
-- You can ask railways related FAQ's, you can ask most of the FAQ's present on [Railway_FAQ's]https://indianrailways.info/ from this Bot
+- You can ask railways related FAQ's, you can ask most of the FAQ's present on [Railway_FAQ's](https://indianrailways.info/) from this Bot
 - You can interact verbally or by typing your Query
 - You can choose Mail/Female Assistent, whichever you are confortable to talk with.
