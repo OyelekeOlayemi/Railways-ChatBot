@@ -30,7 +30,7 @@ pip install chatterbot
 
 ## About Bot
 - Bot will help u in Booking tickets, Help in answering general FAQ's of railways 
-- You can ask railways related FAQ's, you can ask most of the FAQ's present on [Railway_FAQ's](https://indianrailways.info/) from this Bot
+- You can ask most of the FAQ's present on [Railway_FAQ's](https://indianrailways.info/) from this Bot
 - You can interact verbally or by typing your Query
 - You can choose Male/Female Assistent, whichever you are confortable to talk with.
 - This bot usefull for peoples who use railways as mode of transportation
