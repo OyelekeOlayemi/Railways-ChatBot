@@ -38,4 +38,4 @@ pip install chatterbot
 - Data for this bot is created by me and its created wih the help of [Indian Railway Website FAQ's](https://indianrailways.info/)
 ## Future Aspects
 - By getting more data we can train this bot to Answer more query 
-- This Bot can be modified according to training data proivded to it and used in different sectors and help in Customer Support in different Companys, Example: This can be used by delevery plaforms like amazon, zomato, swiggy as there customer support it can answer there customer querys.
+- This Bot can be modified according to training data proivded to it and used in different sectors and help in Customer Support in different Companys, Example: This can be used by delevery plaforms like amazon, zomato, swiggy as there customer support, it can answer there customer querys quickly.
