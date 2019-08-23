@@ -34,6 +34,7 @@ pip install chatterbot
 - You can interact verbally or by typing your Query
 - You can choose Male/Female Assistent, whichever you are confortable to talk with.
 - This bot usefull for peoples who use railways as mode of transportation
+- It will automatically detect your spelling mistake while typing query and also detect your statement which you tell it verbally with some Fumbles, and serach query with corrected statements.
 
 ## About Data
 - Data for this bot is created by me and its created wih the help of [Indian Railway Website FAQ's](https://indianrailways.info/)
