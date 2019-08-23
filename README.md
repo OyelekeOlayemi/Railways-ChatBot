@@ -8,7 +8,10 @@ Chatbot for railway FAQ's
 - webbrowser
 - os
 
-
-For this code to work you can either use Anaconda Jupyter Notebook or Anaconda Spyder IDE
-If u use Jupyter notebook IDE then use code inside folder Railway_bot_Jupyter_code 
-If u use Sypder IDE then use code inside folder Railway_bot_Spyder_code
+To install SpeechRecognition module use
+```python
+pip install SpeechRecognition
+```
+-- For this code to work you can either use Anaconda Jupyter Notebook or Anaconda Spyder IDE
+- If u use Jupyter notebook IDE then use code inside folder Railway_bot_Jupyter_code 
+- If u use Sypder IDE then use code inside folder Railway_bot_Spyder_code
