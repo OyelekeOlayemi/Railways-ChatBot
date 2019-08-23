@@ -24,11 +24,12 @@ pip install chatterbot
 ```
 
 ### For this code to work you can either use Anaconda Jupyter Notebook or Anaconda Spyder IDE
-- If you use Jupyter notebook IDE then use code inside folder Railway_bot_Jupyter_code 
-- If you use Sypder IDE then use code inside folder Railway_bot_Spyder_code
+- If you use Jupyter notebook IDE then use code inside folder Railways_bot_Jupyter_code 
+- If you use Sypder IDE then use code inside folder Railways_bot_Spyder_code
 
 
 ## About Bot
+- Bot will help u in Booking tickets, Help in answering general FAQ's of railways 
 - You can ask railways related FAQ's, you can ask most of the FAQ's present on [Railway_FAQ's](https://indianrailways.info/) from this Bot
 - You can interact verbally or by typing your Query
 - You can choose Male/Female Assistent, whichever you are confortable to talk with.
