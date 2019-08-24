@@ -36,7 +36,7 @@ pip install chatterbot
 - This bot usefull for peoples who use railways as mode of transportation
 - It will automatically detect your spelling mistake while typing query and also detect your statement which you tell it verbally with some Fumbles, and search query with corrected statements.
 
-## About Data
+## About Training Data
 - Data for this bot is created by me and its created wih the help of [Indian Railway Website FAQ's](https://indianrailways.info/)
 ## Future Aspects
 - By getting more data we can train this bot to Answer more query 
