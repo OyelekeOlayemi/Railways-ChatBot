@@ -1,5 +1,5 @@
-# Railway_ChatBot
-Chatbot for railway FAQ's
+# Railways_ChatBot
+Chatbot for railways FAQ's
 ## PreRequisites
 ### You must have following modules intalled before running this code:-
 - SpeechRecognition
@@ -32,9 +32,9 @@ pip install chatterbot
 - Bot will help u in Booking tickets, Help in answering general FAQ's of railways 
 - You can ask most of the FAQ's present on [Railway_FAQ's](https://indianrailways.info/) from this Bot
 - You can interact verbally or by typing your Query
-- You can choose Male/Female Assistent, whichever you are confortable to talk with.
+- You can choose Male/Female Assistant, whichever you are comfortable to talk with.
 - This bot usefull for peoples who use railways as mode of transportation
-- It will automatically detect your spelling mistake while typing query and also detect your statement which you tell it verbally with some Fumbles, and serach query with corrected statements.
+- It will automatically detect your spelling mistake while typing query and also detect your statement which you tell it verbally with some Fumbles, and search query with corrected statements.
 
 ## About Data
 - Data for this bot is created by me and its created wih the help of [Indian Railway Website FAQ's](https://indianrailways.info/)
