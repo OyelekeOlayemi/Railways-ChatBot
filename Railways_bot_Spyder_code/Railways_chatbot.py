@@ -1,8 +1,7 @@
-#import pandas as pd #pip install pandas
-import pyttsx3  # pip install pyttsc3
-import speech_recognition  as sr # pip install SpeechRecognition
+import pyttsx3  
+import speech_recognition  as sr 
 import webbrowser as wb 
-from chatterbot import ChatBot #pip install ChatterBot
+from chatterbot import ChatBot 
 from chatterbot.trainers import ListTrainer
 import os
 
