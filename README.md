@@ -1,7 +1,7 @@
 # Railways_ChatBot
 Chatbot for railways FAQ's
 ## PreRequisites
-### You must have following modules intalled before running this code:-
+### You must have following modules installed before running this code:-
 - SpeechRecognition
 - pyttsx3
 - chatterbot
