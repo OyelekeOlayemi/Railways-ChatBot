@@ -22,6 +22,7 @@ To install chatterbot module
 ```python
 pip install chatterbot 
 ```
+### You must have active internet connection for this code to work as it use google speech recognition system in background to recognize your voice input.
 
 ### For this code to work you can either use Anaconda Jupyter Notebook or Anaconda Spyder IDE
 - If you use Jupyter notebook IDE then use code inside folder Railways_bot_Jupyter_code. 
